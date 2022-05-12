@@ -1,3 +1,4 @@
+<img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-1.6.10-blue"> <img alt="Jetpack Compose" src="https://img.shields.io/badge/Jetpack-Compose-green">
 
 <h1 align="center">Hi 👋, I'm Juan</h1>
 <h3 align="center">I Love Kotlin and Android World </h3>
